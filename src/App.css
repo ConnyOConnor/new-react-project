@@ -1,10 +1,10 @@
 .app {
-  text-align: center;
+    text-align: center;
 }
 
 li {
-  list-style: none;
-  text-align: left;
-  margin-left: 30px;
-
+    list-style: none;
+    text-align: left;
+    margin-left: 30px;
+    color: grey;
 }
